@@ -1,0 +1,11 @@
+Potion
+potion
+20
+4
+
+PokeBall
+pokeball
+100
+98
+
+.

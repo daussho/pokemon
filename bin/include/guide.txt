@@ -1,0 +1,36 @@
+Story:
+World War III had just ended
+Indonesia is one of the country which survived the war
+Sadly, the effect of radioactive from nuclear weapon used 
+in the war by USA and Russia made drastic changes to the environment
+Eventhough humans are luckily and mysteriously unaffected somehow,
+but the animals are heavily affected by the radioactive
+ 
+A lot of animals mutated
+Their body form changed, their behavior changed, and the worst of all,
+they mysteriously gained some special powers
+The mutated animals are able to control natural elements such as water, fire, grass, electric
+Some others get stronger fighting capability, and some even have psychic power
+ 
+These 'monsters' can be catched with PokeBall, a new technology
+Hence, their name, Pokemon
+ 
+You are a young person living in Indonesia, bugged by this phenomenon,
+you meet a professor who research this matter, Kang Deden
+He gives you a mission to catch these pokemon, to make Indonesia a safer place to live
+ 
+Gameplay:
+- Use arrow to move in the map
+- Wild pokemon can be encountered only in the bushes or tall grass area
+- When encountering wild pokemon, you can choose to either attack , use item in the bag, or escape
+- Certain types of pokemon are stronger against certain other types of pokemon
+- If a wild pokemon fainted (HP=0) , it can't be catched, but you will gain EXP and Money
+- If all of your pokemon fainted, it is game over 
+- Bag contains potions and/or pokeball, Potions can be used to restore your pokemon's HP, while pokeball can be used to catch wild pokemon
+- If you run out of items, you can buy them in the pokemart
+- While in the game, you can save your progress by clicking 'S'
+- While in the game, you can see your pokemon by clicking 'Z'
+- While in the game, you can see your character by clicking 'C'
+- While in the game, you can see your bag by clicking 'I'
+- You cannot save your game while in battle, If you leave the game, you can load your saved file
+.

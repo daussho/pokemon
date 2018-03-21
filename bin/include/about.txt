@@ -1,0 +1,15 @@
+About
+ 
+This little game is made by a group of three students majoring in Information System and Technology,
+Bandung Institute of Technology, as a final assignment for Algorithm and Data Structures course
+Inspired by the gameplay of Pokemon(R) by GameFreak Inc, with a background story of our own
+ 
+ 
+Team:
+Teo Wijayarto 18215004
+Abdul Hafizh Firdaus 18215007 
+Muhammad Fikri Hafiya 18215023
+ 
+Sistem dan Teknologi Informasi ITB 2015
+HMIF ITB
+.

@@ -1,0 +1,21 @@
+            MMMMMMMMMMMMM             
+      MMMMMM7777777777777MM           
+        MM777MMM777MMMMMM77MM         
+        MMMMM~~~MMM~~~~~~MMMM         
+        MMMMM~~~MMM~~~~~~MMMM         
+      MMMMM~~~~~~~~~~~~~~~~MMMMM      
+    MM~~MMM~~~~~~~~~~~~~~~~MM~~~MM    
+    MM~~MMM~~~~~~~~~~~~~~~~~~~~~MM    
+    MM~~~~~~~~MM~~~~~MM~~~~~~~~~MM    
+    MM~~~~~~~~MM~~~~~MM~~~~~~~~~MM    
+    MM~~~~~~~~MM~~~~~MM~~~~~~~~~MM    
+      MMMMM~~~~~~~~~~~~~~~~MMMMM      
+    MMMM  MMM~~~OOOOO~~~~MM  MMMMM    
+  MM~~~~MMM MMMMMMMMMMMMM  MM~~~~~MM  
+  MM~~~~MMM   MMMMMMMMM    MM~~~~~MM  
+    MMMMMMM   MM77777MM    MMMMMMM    
+      MM      MMMMMMMMM      MMM      
+      MM      MMMMMMMMM      MMM      
+        MMMMMMMMMMMMMMMMMMMMM         
+      MMMMMMMMMMM    MMMMMMMMMMM      
+.

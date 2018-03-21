@@ -1,0 +1,21 @@
+W W B W W W W W W W W W W W W W W 
+W B u B W W W W W W W W W W W W W 
+W B u B B W W W W W W W W W W W W 
+W B u U U B W W B W W W W B B B W 
+W B u U U B B B U B W B B u u u B 
+B u u U U B U B U B B u u u u B W 
+B U u U U B U B B u u u B B u u B 
+W B U B B U U B u u B B L L u B W 
+W W B u B U B u u B L L L u B W W 
+W W B u U U B u B L L L L u B B W 
+W B U U u u u u B L L L u B U B W 
+W B u u u u B U U U B B B U U B W 
+B u u u u B w U U U B U U U U B W 
+B U u u B B w U U B U U B U B W W 
+W B U U U U U B B U U B B w B W W 
+W B w B B B B B B u U B B B W W W 
+W W B W B w w B u u B W W W W W W 
+W W W W W B B B u U B W W W W W W 
+W W W W W W B w w B W W W W W W W 
+W W W W W W W B B W W W W W W W W 
+.
